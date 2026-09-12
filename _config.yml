@@ -1,3 +1,6 @@
+url: "https://github.io"
+baseurl: "" # Keep this blank
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
