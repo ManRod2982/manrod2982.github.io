@@ -1,0 +1,42 @@
+/* style.css */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #EFF1F3;
+}
+
+nav {
+  margin-bottom: 30px;
+  padding: 1rem;
+  background-color: #447188;
+}
+
+nav a {
+  font-size: large;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: xx-large;
+  color: #EF8354;
+}
+
+h2 {
+  font-size: x-large;
+  color: #52AA5E;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: large;
+  line-height: 1.5;
+  color: #1a2639;
+}
+
+.current {
+  color: #5299D3;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=styles.css.map */
