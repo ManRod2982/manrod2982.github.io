@@ -1,5 +1,5 @@
-url: "https://github.io"
-baseurl: "" # Keep this blank
+url: "https://manrod2982.github.io"
+baseurl: "/manrod"
 
 plugins:
   - jekyll-feed
